@@ -19,3 +19,5 @@ st.markdown("-Crypto")
 st.markdown("-Historical data of stocks")
 st.markdown("-Real time stocks value")
 st.markdown("-----------------------")
+
+
