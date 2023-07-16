@@ -1,3 +1,5 @@
+installation
+
 1.Run on local machine
 '''
 pip install -r req.txt
@@ -6,4 +8,3 @@ pip install -r req.txt
 
 '''
 streamlit run app.py
-'''
